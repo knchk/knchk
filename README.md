@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @knchk
+- 👀 I’m interested in 'data'
+- 🌱 I’m currently learning languages
+--->
